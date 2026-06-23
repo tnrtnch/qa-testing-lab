@@ -21,7 +21,7 @@ This project simulates a real QA automation environment and includes:
 ## Project Structure
 
 ```
-QA_project/
+qa-testing-lab/
 │
 ├── kaldata_spider/              # Scrapy project
 ├── telegraph_beautifulsoup/     # BeautifulSoup scraper
