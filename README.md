@@ -84,6 +84,7 @@ Run specific category:
 ```bash
 pytest tests/unit/
 pytest tests/integration/
+python -m pytest tests\positive\test_positive.py -v
 ```
 
 ---
