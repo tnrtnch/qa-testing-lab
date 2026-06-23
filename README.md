@@ -71,14 +71,6 @@ Ensure existing functionality is not broken after updates.
 
 ---
 
-## Installation
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## Running Tests
 
 Run all tests:
