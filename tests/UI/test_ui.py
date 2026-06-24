@@ -28,4 +28,4 @@ def test_relps_table_loads():
 
         assert rows.count() > 0
 
-        browser.close() 
+        browser.close()
