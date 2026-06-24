@@ -69,6 +69,10 @@ Ensure existing functionality is not broken after updates.
 * Equivalence Partitioning
 * Positive / Negative Testing
 
+### UI / End-to-End (E2E) Tests
+
+Automate real user interactions through a browser. These tests validate complete workflows such as opening a website, interacting with page elements, navigating between screens, and verifying that data is displayed correctly from the user's perspective.
+
 ---
 
 ## Running Tests
