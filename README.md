@@ -36,6 +36,7 @@ qa-testing-lab/
     ├── positive/
     ├── negative/
     ├── boundary_value/
+    ├── UI/E2E
     └── equivalence_partitioning/
 ```
 
